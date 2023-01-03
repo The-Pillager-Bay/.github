@@ -1,4 +1,4 @@
-An account dedicated to open-sourcing parts of the Pillager Bay's backend infrastructure.
+An org dedicated to open-sourcing parts of the Pillager Bay's backend infrastructure.
 <hr>
 Copyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for "fair use" for purposes such as <b>criticism, commenting, news reporting, teaching, scholarship, and research</b>. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.
 <br>
